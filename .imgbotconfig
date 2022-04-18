@@ -1,0 +1,12 @@
+{
+    "schedule": "daily",
+    "minKBReduced": 5,
+    "aggressiveCompression": false,
+    "ignoredFiles": [
+        "images/actors/*",
+        "images/entrances/*",
+        "images/sarajevo_six/*",
+        "images/sarajevo_six/**/*",
+        "images/contracts/elusive/**/*"
+    ]
+}
