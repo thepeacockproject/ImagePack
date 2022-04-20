@@ -6,7 +6,6 @@
         "images/actors/*",
         "images/entrances/*",
         "images/sarajevo_six/*",
-        "images/sarajevo_six/**/*",
-        "images/contracts/elusive/**/*"
+        "images/contracts/elusive/*"
     ]
 }
