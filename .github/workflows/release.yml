@@ -31,3 +31,10 @@ jobs:
           tag_name: ${{ steps.vars.outputs.sha_short }}
           name: "ImagePack ${{ steps.vars.outputs.sha_short }}"
           files: ImagePack.zip
+
+      - name: Update Offline Image Pack
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.AF_OFFLINE_IMAGE_PACK_PAT }}
+          repository: AnthonyFuller/offline-image-pack
+          event-type: update_mod
