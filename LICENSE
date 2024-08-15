@@ -1,24 +1,26 @@
 Copyright (©) 2021-2024 The Peacock Project authors.
 
-All assets under the following paths in this repository are the property of IO Interactive:
+# PEACOCK ASSETS
 
-- `/images/actors/`
-- `/images/unlockables/`
-- `/images/contracts/elusive/`
-- `/images/sarajevo_six/orbis00*_*`
+All assets are property of The Peacock Project unless otherwise noted. Such assets are under the following license:
+
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+For full legal text of the license, see https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 Some assets within this distribution may contain the use of the "Road Rage" font by Youssef Habchi.
 Font used with commercial license.
 Usage of this font is governed by the terms laid out by the designer, as of September 12th, 2021.
 See https://youssef-habchi.com/license for more details.
 
-All assets are property of The Peacock Project unless otherwise noted.
+# NON-PEACOCK ASSETS
 
-===============================
+All assets under the following paths in this repository are the property of IO Interactive:
 
-Assets that are property of The Peacock Project are under the following license:
-
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-https://creativecommons.org/licenses/by-sa/4.0/
-
-For full legal text of the license, see https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- `/images/actors/`
+- `/images/challenges/elusive_target`
+- `/images/unlockables/`
+- `/images/contracts/elusive/`
+- `/images/unlockables_override/` (except `47_outfits_butcher.jpg`)
+- `/images/sarajevo_six/` (except `background.png`)
